@@ -1,0 +1,43 @@
+body{background-color:antiquewhite; align-content: center;} 
+
+h1{font-family: cursive;
+color: red;
+    font-size: 36px;
+    text-align: center;} 
+
+button{font-family: cursive;
+    background-color: bisque;
+    font-size: 20px;
+    text-align: center;
+    border: 3px solid red;
+width: 200px;
+    margin: 15px;
+    
+}
+
+a{text-decoration-color:maroon;}
+
+
+p{font-family: cursive;
+color: black;
+    font-size: 20px;
+    text-align: center;
+  width: 800px;
+ margin-left: auto;
+    margin-right: auto;
+    padding: 10px
+} 
+
+img{display: block;
+    margin-left: auto; 
+margin-right: auto;
+border: 5px solid red;
+    width: 400px;
+}
+
+
+iframe{display: block;
+    margin-left: auto; 
+margin-right: auto;
+
+}
